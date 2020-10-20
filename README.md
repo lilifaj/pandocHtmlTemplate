@@ -10,7 +10,7 @@ On linux, the file can be downloaded running:
 wget https://raw.githubusercontent.com/lilifaj/pandocHtmlTemplate/master/pandocHtmlTemplate.html5
 ```
 
-It should be copied in the subfolder `~/.pandoc/templates/`. If it appears you don't have the folder, you can create it by using:
+It should be copied in the subfolder `~/.pandoc/templates/`. If it appears that you don't have the folder, you can create it by using:
 
 ```
 mkdir -p ~/.pandoc/templates

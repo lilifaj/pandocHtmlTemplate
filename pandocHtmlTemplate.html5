@@ -173,7 +173,7 @@ $endif$
     code {
       font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
       background-color: #f0f0f0;
-      font-size: 85%;
+      font-size: 90%;
       margin: 0;
       padding: .2em .4em;
     }
